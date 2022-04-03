@@ -26,6 +26,7 @@
 		8968C65127F894540092B53A /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8968C64327F894540092B53A /* chilkoottrail.jpg */; };
 		8968C65227F894540092B53A /* rainbowlake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 8968C64427F894540092B53A /* rainbowlake.jpg */; };
 		8968C65427F894B70092B53A /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8968C65327F894B70092B53A /* CircleImage.swift */; };
+		8968C65627F9D7190092B53A /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8968C65527F9D7180092B53A /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -49,6 +50,7 @@
 		8968C64327F894540092B53A /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		8968C64427F894540092B53A /* rainbowlake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rainbowlake.jpg; sourceTree = "<group>"; };
 		8968C65327F894B70092B53A /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		8968C65527F9D7180092B53A /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 				8968C62A27F893AD0092B53A /* Assets.xcassets */,
 				8968C62C27F893AD0092B53A /* Preview Content */,
 				8968C65327F894B70092B53A /* CircleImage.swift */,
+				8968C65527F9D7180092B53A /* MapView.swift */,
 			);
 			path = Landmarks;
 			sourceTree = "<group>";
@@ -206,6 +209,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				8968C62927F893AB0092B53A /* ContentView.swift in Sources */,
+				8968C65627F9D7190092B53A /* MapView.swift in Sources */,
 				8968C62727F893AB0092B53A /* LandmarksApp.swift in Sources */,
 				8968C65427F894B70092B53A /* CircleImage.swift in Sources */,
 			);
